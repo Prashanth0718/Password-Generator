@@ -1,4 +1,4 @@
-# Password Generator
+# Password Generator Application
 
 A simple and customizable password generator built with React, Vite, and Tailwind CSS. This project allows users to generate passwords with various lengths and include numbers and special characters based on their preferences.
 
